@@ -1,4 +1,5 @@
-# Projeto da diciplina de organização de computadores e sistemas operacionais - CIn UFPE
+# Torre de Hanoi (Asseembly)
+## Projeto da diciplina de organização de computadores e sistemas operacionais - CIn UFPE
 ### Discentes: Alberis e Arlen Ferreira da Silva Filho
 ### Doscente: Sergio Vanderlei Cavalcante
 ### Este projeto foi realizado para a disciplina de Organização de computadores e Sistemas operacionais.
