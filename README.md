@@ -1,4 +1,4 @@
-# Torre de Hanói (Python)
+# Torre de Hanói (Em Python)
 ## Projeto da diciplina de Organização de Computadores e Sistemas Operacionais - CIn UFPE
 ### Discentes: Alberis Alves da Silva e Arlen Ferreira da Silva Filho
 ### Docente: Sergio Vanderlei Cavalcante
